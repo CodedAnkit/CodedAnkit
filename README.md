@@ -15,5 +15,4 @@ I know how to code using technologies such as HTML, CSS and Javascript, while I'
 Current project count: 1
 
 - [Hypotenuse Calculator](https://github.com/CodedAnkit/HypotenuseCalculator)
-
-
+```
