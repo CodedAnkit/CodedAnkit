@@ -12,6 +12,7 @@ I know how to code using technologies such as HTML, CSS and Javascript, while I'
 ![Group 6](https://github.com/CodedAnkit/CodedAnkit/assets/136353031/8e1bf1cf-5b71-4268-a0dc-e2d53a7beba3)
 
 # 🌍 Projects!
-Current project count: 1
+Current project count: 2
 
 - [Hypotenuse Calculator](https://github.com/CodedAnkit/HypotenuseCalculator)
+- [BMI Finder](https://github.com/CodedAnkit/BMI-Calculator/)
