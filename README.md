@@ -15,4 +15,4 @@ I know how to code using technologies such as HTML, CSS and Javascript, while I'
 Current project count: 2
 
 - [Hypotenuse Calculator](https://github.com/CodedAnkit/HypotenuseCalculator)
-- [BMI Finder](https://github.com/CodedAnkit/BMI-Calculator/)
+- [BMI Finder](https://hypotenuse-calculator.netlify.app/)
