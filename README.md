@@ -6,10 +6,7 @@ Hey there, I am Ankit Mishra, I am from India and I am a high school student cur
 
 # What can I do? 🤔
 
-I know how to code using technologies such as HTML, CSS and Javascript, while I'm currently <br> still learning Backend and Javascript frameworks, I plan to expand my stack until  <br> I can make MERN projects!
-
-
-![Group 6](https://github.com/CodedAnkit/CodedAnkit/assets/136353031/8e1bf1cf-5b71-4268-a0dc-e2d53a7beba3)
+Still learning, to be updated!
 
 # 🌍 Projects!
 Current project count: 0
